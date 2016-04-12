@@ -8,7 +8,7 @@ l'application permet de trouver les toilettes publiques, à Nantes et son agglom
   * Automatique ou non
   * Accessible au PMR ou non
   
-Cette application n'est disponnible qu'à partir de la version 4.4 d'Android et est téléchargeable à 
+Cette application n'est disponible qu'à partir de la version 4.4 d'Android et est téléchargeable à 
 * https://github.com/yepzy/Public-Toilet-Nantes/raw/master/NantesToiletLocator.apk
 
 N.B : si votre appareil Android refuse de l'installer suiver ce tutoriel 
