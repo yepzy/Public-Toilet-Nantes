@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nantes Toilets Locator</string>
+    <string name="google_api_key">AIzaSyDh2BV2FlczYthNAen1_oMM9i_Gkt5F87k</string>
+    <string name="google_server_api_key">AIzaSyBmZfkJ2erXqjQdPktZaiaE4JTQ1fua-H0</string>
+</resources>
